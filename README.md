@@ -1,2 +1,2 @@
 # mylearningfiles
-this files are for my org understanding
+this files are for my learnings
